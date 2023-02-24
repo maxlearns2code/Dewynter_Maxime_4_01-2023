@@ -506,6 +506,10 @@ button {
 }
 
 .form-control {
+    display: block;
+    width: 100%;
+    height: 30px;
+    margin: 5px 0px 5px 0px;
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
 }
@@ -659,6 +663,7 @@ a {
 }
 
 .hero-bloc-text {
+    margin: auto;
     font-size: 38px;
 }
 
@@ -823,6 +828,10 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.bmp");
+}
+
+.quote {
+    font-size: 20px;
 }
 
 @media (max-width: 1024px) {
