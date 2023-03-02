@@ -829,7 +829,7 @@ h4 {
     background-image: url("img/image-de-presentation.webp");
 }
 
-.quote {
+blockquote p{
     font-size: 20px;
 }
 
