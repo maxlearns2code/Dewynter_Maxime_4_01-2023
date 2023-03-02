@@ -58,6 +58,10 @@ a:active,
 a:hover {
     outline: 0
 }
+a:focus {
+    border-color: black;
+    border-bottom: 1px solid black;
+}
 
 abbr[title] {
     border-bottom: 1px dotted
